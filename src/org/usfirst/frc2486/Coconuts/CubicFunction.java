@@ -2,7 +2,7 @@ package org.usfirst.frc2486.Coconuts;
 
 import org.usfirst.frc2486.Frankenstien.*;
 
-public class JoystickConfigurator {
+public class CubicFunction {
 	
 	public void function(double value){
 		double a, b;
