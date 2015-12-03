@@ -11,6 +11,7 @@
 
 package org.usfirst.frc2486.Frankenstien.commands;
 
+import edu.wpi.first.wpilibj.Compressor;
 import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc2486.Frankenstien.Robot;
 
@@ -34,6 +35,7 @@ public class RunCompressor extends Command {
 
     // Called just before this Command runs the first time
     protected void initialize() {
+    	
     }
 
     // Called repeatedly when this Command is scheduled to run

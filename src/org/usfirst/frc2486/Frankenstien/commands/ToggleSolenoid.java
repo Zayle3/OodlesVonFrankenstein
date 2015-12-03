@@ -13,6 +13,7 @@ package org.usfirst.frc2486.Frankenstien.commands;
 
 import edu.wpi.first.wpilibj.command.Command;
 import org.usfirst.frc2486.Frankenstien.Robot;
+import org.usfirst.frc2486.Frankenstien.RobotMap;
 
 /**
  *
@@ -34,6 +35,7 @@ public class ToggleSolenoid extends Command {
 
     // Called just before this Command runs the first time
     protected void initialize() {
+    	RobotMap.pneumaticsCompressor.
     }
 
     // Called repeatedly when this Command is scheduled to run
